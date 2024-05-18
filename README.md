@@ -40,3 +40,7 @@ Implementación de unas de las mejores estructuras de datos usando Java como len
 ## Práctica 8 
 
 - Algoritmo de Dijkstra 
+
+## Práctica 9 
+
+

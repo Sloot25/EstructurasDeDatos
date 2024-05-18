@@ -43,4 +43,4 @@ Implementación de unas de las mejores estructuras de datos usando Java como len
 
 ## Práctica 9 
 
-
+- Hash functions

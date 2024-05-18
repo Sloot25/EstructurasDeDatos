@@ -29,4 +29,6 @@ Implementación de unas de las mejores estructuras de datos usando Java como len
 
 - Arbol AVL 
 
-## Gráficas 
+## Práctica 6 
+
+- Gráficas

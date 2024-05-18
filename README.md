@@ -20,3 +20,13 @@ Implementación de unas de las mejores estructuras de datos usando Java como len
 
 - Arbol Binario Completo 
 - Arbol Binario Ordenado 
+
+## Práctica 4 
+
+- Arbol RojiNegro 
+
+## Práctica 5 
+
+- Arbol AVL 
+
+## Gráficas 

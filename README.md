@@ -32,3 +32,11 @@ Implementación de unas de las mejores estructuras de datos usando Java como len
 ## Práctica 6 
 
 - Gráficas
+
+## Práctica 7 
+
+- MonticuloMinimo 
+
+## Práctica 8 
+
+- Algoritmo de Dijkstra 

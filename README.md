@@ -52,3 +52,7 @@ Implementación de unas de las mejores estructuras de datos usando Java como len
 ## Práctica 11 
 
 - Conjuntos
+
+## Proyecto 1: Ordenador Lexicografico 
+## Proyecto 2: Generador de SVG de las estructuas de datos
+## Proyecto 3: Generador de laberintos y soluciones
